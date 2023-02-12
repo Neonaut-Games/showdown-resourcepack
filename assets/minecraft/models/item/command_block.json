@@ -1,0 +1,6 @@
+{
+  "parent": "block/command_block",
+	"overrides": [
+		{"predicate": {"custom_model_data": 6601}, "model": "showdown:item/logo"}
+	]
+}

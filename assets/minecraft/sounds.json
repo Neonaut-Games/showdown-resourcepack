@@ -1,0 +1,167 @@
+{
+	"showdown.bass-ambient": {
+		"sounds": [
+			"showdown/bass-ambient"
+		]
+	},
+	"showdown.factory-ambient": {
+		"sounds": [
+			"showdown/factory-ambient"
+		]
+	},
+	"narrator.game-intro": {
+		"sounds": [
+			"narrator/game-intro"
+		]
+	},
+	"narrator.armor-increased": {
+		"sounds": [
+			"narrator/armor-increased"
+		]
+	},
+	"narrator.countdown": {
+		"sounds": [
+			"narrator/countdown"
+		]
+	},
+	"narrator.death-message": {
+		"sounds": [
+			"narrator/death-message"
+		]
+	},
+	"narrator.lose-message-1": {
+		"sounds": [
+			"narrator/lose-message-1"
+		]
+	},
+	"narrator.lose-message-2": {
+		"sounds": [
+			"narrator/lose-message-2"
+		]
+	},
+	"narrator.lose-message-3": {
+		"sounds": [
+			"narrator/lose-message-3"
+		]
+	},
+	"narrator.lose-message-4": {
+		"sounds": [
+			"narrator/lose-message-4"
+		]
+	},
+	"narrator.pickup-weapon-1": {
+		"sounds": [
+			"narrator/pickup-weapon-1"
+		]
+	},
+	"narrator.pickup-weapon-2": {
+		"sounds": [
+			"narrator/pickup-weapon-2"
+		]
+	},
+	"narrator.pickup-weapon-3": {
+		"sounds": [
+			"narrator/pickup-weapon-3"
+		]
+	},
+	"narrator.pickup-weapon-4": {
+		"sounds": [
+			"narrator/pickup-weapon-4"
+		]
+	},
+	"narrator.pickup-weapon-5": {
+		"sounds": [
+			"narrator/pickup-weapon-5"
+		]
+	},
+	"narrator.ranged-upgrade": {
+		"sounds": [
+			"narrator/ranged-upgrade"
+		]
+	},
+	"narrator.reset-10": {
+		"sounds": [
+			"narrator/reset-10"
+		]
+	},
+	"narrator.reset-30": {
+		"sounds": [
+			"narrator/reset-30"
+		]
+	},
+	"narrator.speed-increased": {
+		"sounds": [
+			"narrator/speed-increased"
+		]
+	},
+	"narrator.strength-increased": {
+		"sounds": [
+			"narrator/strength-increased"
+		]
+	},
+	"narrator.sudden-death": {
+		"sounds": [
+			"narrator/sudden-death"
+		]
+	},
+	"narrator.upgrade-melee": {
+		"sounds": [
+			"narrator/upgrade-melee"
+		]
+	},
+	"showdown.elevator-music": {
+		"sounds": [
+			"showdown/elevator-music"
+		]
+	},
+	"showdown.record-scratch": {
+		"sounds": [
+			"showdown/record-scratch"
+		]
+	},
+	"showdown.machine-start": {
+		"sounds": [
+			"showdown/machine-start"
+		]
+	},
+	"showdown.wisp-old": {
+		"sounds": [
+			"showdown/wisp-old"
+		]
+	},
+	"showdown.wisp-new": {
+		"sounds": [
+			"showdown/wisp-new"
+		]
+	},
+	"showdown.intro-music": {
+		"sounds": [
+			"showdown/intro-music"
+		]
+	},
+	"showdown.cloud-ambient": {
+		"sounds": [
+			"showdown/cloud-ambient"
+		]
+	},
+	"showdown.timer-hit": {
+		"sounds": [
+			"showdown/timer-hit"
+		]
+	},
+	"showdown.whispers": {
+		"sounds": [
+			"showdown/whispers"
+		]
+	},
+	"showdown.squeak": {
+		"sounds": [
+			"showdown/squeak"
+		]
+	},
+	"showdown.bogie-blaster-fire": {
+		"sounds": [
+			"showdown/bogie-blaster-fire"
+		]
+	}
+}

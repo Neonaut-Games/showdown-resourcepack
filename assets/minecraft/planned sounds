@@ -1,0 +1,97 @@
+#	intro-message.ogg
+
+[all players are blinded and frozen at random points in the map]
+
+Welcome to the field test- or as we like to call it- Showdown.
+
+[intro music starts playing]
+
+You and your opponents have been randomly placed around this controlled environment.
+You will be given abilities and items over time and can also find them in the world around you.
+Throughout the match, this arena will slowly shrink, pushing all players towards the center.
+Your goal is to survive as long as possible, withstanding all challenges and obstacles that
+the simulation may force upon you. If you happen to encounter another player, kill them. Begin.
+
+[dramatic ship-like horn blast]
+[game begins]
+
+#	death-message.ogg
+
+A player has been eliminated.
+
+#	count-5.ogg
+
+Five players remain.
+
+#	count-4.ogg
+
+Four players remain.
+
+#	count-3.ogg
+
+Three players remain.
+
+#	count-2.ogg
+
+Two players remain.
+
+#	sudden-death-message.ogg
+
+Welcome, contestants, to Sudden Death.
+All of your abilities have been turned up to LETHAL impact.
+After *this* long, multiple of you are still left standing. Change that. Begin.
+
+[dramatic ship-like horn blast]
+[game begins]
+
+#	pickup-weapon-1.ogg
+
+Ooh, shiny!
+
+#	pickup-weapon-2.ogg
+
+This one should be lots of fun.
+
+#	pickup-weapon-3.ogg
+
+Do you feel it, contestant, the power? The rage?
+
+#	pickup-weapon-4.ogg
+
+You've been granted power, so use it. Kill them.
+
+#	pickup-weapon-5.ogg
+
+Hmm, what does this trinket do?
+
+#	win-message-1.ogg
+
+Victory, victory! Don't get used to it.
+
+#	win-message-2.ogg
+
+You're one step closer to earning your freedom! Well, kinda. I guess 1 is closer to infinity than 0.
+
+#	win-message-3.ogg
+
+You show... potential. I'll notify them about you.
+
+#	win-message-4.ogg
+
+Good job contestant! You really outdid yourself. Well, this time.
+
+#	lose-message-1.ogg
+
+You died, boo hoo.
+
+#	lose-message-2.ogg
+
+What's another loss, right? You can't get knocked down if you were already there.
+
+#	lose-message-3.ogg
+
+Hey, winning isn't for everyone, and by the looks of it, it definitely isn't for you.
+
+#	lose-message-4.ogg
+
+Back to square one! You're making quite a home for yourself here.

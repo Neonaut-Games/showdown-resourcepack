@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/egg"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 6601}, "model": "showdown:item/grenade/normal"},
+		{"predicate": {"custom_model_data": 6602}, "model": "showdown:item/grenade/ice"},
+		{"predicate": {"custom_model_data": 6603}, "model": "showdown:item/grenade/smoke"},
+		{"predicate": {"custom_model_data": 6604}, "model": "showdown:item/grenade/gas"}
+	]
+}

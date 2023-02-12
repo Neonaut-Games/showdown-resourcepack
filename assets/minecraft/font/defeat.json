@@ -1,0 +1,39 @@
+ {
+     "providers": [
+         {
+			"type": "bitmap",
+			"file": "font/defeat/image_part_001.png",
+            "ascent": 10,
+            "height": 20,
+            "chars": ["\u0001"]
+         },
+         {
+			"type": "bitmap",
+			"file": "font/defeat/image_part_002.png",
+            "ascent": 10,
+            "height": 20,
+            "chars": ["\u0002"]
+         },
+         {
+			"type": "bitmap",
+			"file": "font/defeat/image_part_003.png",
+            "ascent": 10,
+            "height": 20,
+            "chars": ["\u0003"]
+         },
+         {
+			"type": "bitmap",
+			"file": "font/defeat/image_part_004.png",
+            "ascent": 10,
+            "height": 20,
+            "chars": ["\u0004"]
+         },
+         {
+			"type": "bitmap",
+			"file": "font/defeat/image_part_005.png",
+            "ascent": 10,
+            "height": 20,
+            "chars": ["\u0005"]
+         }
+ 	]
+ }

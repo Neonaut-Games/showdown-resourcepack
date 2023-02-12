@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "showdown:item/logo"
+  },
+	"display": {
+		"fixed": {
+			"scale": [10, 10, 10]
+		}
+	}
+}

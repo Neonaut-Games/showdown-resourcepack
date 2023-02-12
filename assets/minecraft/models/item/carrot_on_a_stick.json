@@ -1,0 +1,15 @@
+{
+	"parent": "item/handheld_rod",
+	"textures": {
+		"layer0": "item/carrot_on_a_stick"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 6601}, "model": "showdown:item/stats"},
+		{"predicate": {"custom_model_data": 6602}, "model": "showdown:item/about"},
+		{"predicate": {"custom_model_data": 6603}, "model": "showdown:item/balance"},
+		{"predicate": {"custom_model_data": 6604}, "model": "showdown:item/flare"},
+		{"predicate": {"custom_model_data": 6605}, "model": "item/map"},
+		{"predicate": {"custom_model_data": 6606}, "model": "showdown:item/bogie_blaster"},
+		{"predicate": {"custom_model_data": 6607}, "model": "showdown:item/airstrike"}
+	]
+}

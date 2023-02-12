@@ -1,0 +1,18 @@
+{
+	"parent": "minecraft:entity/cube",
+	"textures": {
+		"particle": "showdown:entity/care_package",
+		"north": "showdown:entity/care_package",
+		"south": "showdown:entity/care_package",
+		"east": "showdown:entity/care_package",
+		"west": "showdown:entity/care_package",
+		"up": "showdown:entity/care_package",
+		"down": "showdown:entity/care_package"
+	},
+	"display": {
+		"head": {
+			"translation": [0, -39, 0],
+			"scale": [2.25, 2.25, 2.25]
+		}
+	}
+}

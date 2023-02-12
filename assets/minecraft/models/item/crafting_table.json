@@ -1,0 +1,6 @@
+{
+	"parent": "block/crafting_table",
+	"overrides": [
+		{"predicate": {"custom_model_data": 6601}, "model": "showdown:entity/care_package"}
+	]
+}
